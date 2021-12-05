@@ -1,0 +1,74 @@
+C:/Users/rsalimov.INT/source/repos/selfHostedHttp/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.exe
+C:/Users/rsalimov.INT/source/repos/selfHostedHttp/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.deps.json
+C:/Users/rsalimov.INT/source/repos/selfHostedHttp/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.runtimeconfig.json
+C:/Users/rsalimov.INT/source/repos/selfHostedHttp/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.runtimeconfig.dev.json
+C:/Users/rsalimov.INT/source/repos/selfHostedHttp/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.dll
+C:/Users/rsalimov.INT/source/repos/selfHostedHttp/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.pdb
+C:/Users/rsalimov.INT/source/repos/selfHostedHttp/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.csprojAssemblyReference.cache
+C:/Users/rsalimov.INT/source/repos/selfHostedHttp/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.AssemblyInfoInputs.cache
+C:/Users/rsalimov.INT/source/repos/selfHostedHttp/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.AssemblyInfo.cs
+C:/Users/rsalimov.INT/source/repos/selfHostedHttp/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.dll
+C:/Users/rsalimov.INT/source/repos/selfHostedHttp/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.pdb
+c:/Users/Rustem/Dropbox/univer/education/lekcii/C# - ITIS/2k/exercises/httpListenet/selfHostedHttp/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.exe
+c:/Users/Rustem/Dropbox/univer/education/lekcii/C# - ITIS/2k/exercises/httpListenet/selfHostedHttp/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.deps.json
+c:/Users/Rustem/Dropbox/univer/education/lekcii/C# - ITIS/2k/exercises/httpListenet/selfHostedHttp/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.runtimeconfig.json
+c:/Users/Rustem/Dropbox/univer/education/lekcii/C# - ITIS/2k/exercises/httpListenet/selfHostedHttp/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.runtimeconfig.dev.json
+c:/Users/Rustem/Dropbox/univer/education/lekcii/C# - ITIS/2k/exercises/httpListenet/selfHostedHttp/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.dll
+c:/Users/Rustem/Dropbox/univer/education/lekcii/C# - ITIS/2k/exercises/httpListenet/selfHostedHttp/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.pdb
+c:/Users/Rustem/Dropbox/univer/education/lekcii/C# - ITIS/2k/exercises/httpListenet/selfHostedHttp/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.csprojAssemblyReference.cache
+c:/Users/Rustem/Dropbox/univer/education/lekcii/C# - ITIS/2k/exercises/httpListenet/selfHostedHttp/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.AssemblyInfoInputs.cache
+c:/Users/Rustem/Dropbox/univer/education/lekcii/C# - ITIS/2k/exercises/httpListenet/selfHostedHttp/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.AssemblyInfo.cs
+c:/Users/Rustem/Dropbox/univer/education/lekcii/C# - ITIS/2k/exercises/httpListenet/selfHostedHttp/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.csproj.CoreCompileInputs.cache
+c:/Users/Rustem/Dropbox/univer/education/lekcii/C# - ITIS/2k/exercises/httpListenet/selfHostedHttp/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.dll
+c:/Users/Rustem/Dropbox/univer/education/lekcii/C# - ITIS/2k/exercises/httpListenet/selfHostedHttp/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.pdb
+c:/Users/Rustem/Dropbox/univer/education/lekcii/C# - ITIS/2k/exercises/httpListenet/selfHostedHttp/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.genruntimeconfig.cache
+/Users/boreduck/Documents/study_process/web/web_main/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.deps.json
+/Users/boreduck/Documents/study_process/web/web_main/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.runtimeconfig.json
+/Users/boreduck/Documents/study_process/web/web_main/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.runtimeconfig.dev.json
+/Users/boreduck/Documents/study_process/web/web_main/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.dll
+/Users/boreduck/Documents/study_process/web/web_main/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.pdb
+/Users/boreduck/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.csproj.AssemblyReference.cache
+/Users/boreduck/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boreduck/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.AssemblyInfoInputs.cache
+/Users/boreduck/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.AssemblyInfo.cs
+/Users/boreduck/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.csproj.CoreCompileInputs.cache
+/Users/boreduck/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.dll
+/Users/boreduck/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.pdb
+/Users/boreduck/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.genruntimeconfig.cache
+/Users/adelia/Documents/study_process/web/web_main/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.deps.json
+/Users/adelia/Documents/study_process/web/web_main/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.runtimeconfig.json
+/Users/adelia/Documents/study_process/web/web_main/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.runtimeconfig.dev.json
+/Users/adelia/Documents/study_process/web/web_main/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.dll
+/Users/adelia/Documents/study_process/web/web_main/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.pdb
+/Users/adelia/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.csprojAssemblyReference.cache
+/Users/adelia/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.AssemblyInfoInputs.cache
+/Users/adelia/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.AssemblyInfo.cs
+/Users/adelia/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.csproj.CoreCompileInputs.cache
+/Users/adelia/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.dll
+/Users/adelia/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.pdb
+/Users/adelia/Documents/study_process/web/web_main/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.genruntimeconfig.cache
+/Users/boreduck/Desktop/http/gilazutdinova_11009/httpListener2/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.deps.json
+/Users/boreduck/Desktop/http/gilazutdinova_11009/httpListener2/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.runtimeconfig.json
+/Users/boreduck/Desktop/http/gilazutdinova_11009/httpListener2/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.runtimeconfig.dev.json
+/Users/boreduck/Desktop/http/gilazutdinova_11009/httpListener2/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.dll
+/Users/boreduck/Desktop/http/gilazutdinova_11009/httpListener2/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.pdb
+/Users/boreduck/Desktop/http/gilazutdinova_11009/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.csproj.AssemblyReference.cache
+/Users/boreduck/Desktop/http/gilazutdinova_11009/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boreduck/Desktop/http/gilazutdinova_11009/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.AssemblyInfoInputs.cache
+/Users/boreduck/Desktop/http/gilazutdinova_11009/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.AssemblyInfo.cs
+/Users/boreduck/Desktop/http/gilazutdinova_11009/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.csproj.CoreCompileInputs.cache
+/Users/boreduck/Desktop/http/gilazutdinova_11009/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.dll
+/Users/boreduck/Desktop/http/gilazutdinova_11009/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.pdb
+/Users/boreduck/Desktop/http/gilazutdinova_11009/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.genruntimeconfig.cache
+/Users/adelia/Documents/study_process/http/httpListener2/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.deps.json
+/Users/adelia/Documents/study_process/http/httpListener2/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.runtimeconfig.json
+/Users/adelia/Documents/study_process/http/httpListener2/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.runtimeconfig.dev.json
+/Users/adelia/Documents/study_process/http/httpListener2/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.dll
+/Users/adelia/Documents/study_process/http/httpListener2/httpListener/selfHostedHttp/bin/Debug/netcoreapp3.1/selfHostedHttp.pdb
+/Users/adelia/Documents/study_process/http/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.csprojAssemblyReference.cache
+/Users/adelia/Documents/study_process/http/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.AssemblyInfoInputs.cache
+/Users/adelia/Documents/study_process/http/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.AssemblyInfo.cs
+/Users/adelia/Documents/study_process/http/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.csproj.CoreCompileInputs.cache
+/Users/adelia/Documents/study_process/http/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.dll
+/Users/adelia/Documents/study_process/http/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.pdb
+/Users/adelia/Documents/study_process/http/httpListener2/httpListener/selfHostedHttp/obj/Debug/netcoreapp3.1/selfHostedHttp.genruntimeconfig.cache

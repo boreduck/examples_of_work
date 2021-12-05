@@ -1,0 +1,72 @@
+
+  <div class="section">
+    <div class="group_container">
+      <div class="section_header">
+        <h3 class="section_suptitle">Meet</h3>
+        <h2 class="section_title">students</h2>
+      </div>
+
+      <button class="open_button" onclick="openForm()">Add new student</button>
+      <div class="form" id="new_student">
+        <form action="" id="myForm" class="form_container" method="post" onsubmit="return closeSelf(this);">
+          <h1>New student</h1>
+
+          <input type="text" placeholder="ID" id="id_number" name="id_number"required required pattern="\d\d\d\d\d\d"
+          oninvalid="this.setCustomValidity('enter 6 number ID')" oninput="this.setCustomValidity('')">
+
+          <input type="text" placeholder="surname" name="surname" id="surname" required required pattern="[A-Za-zА-Яа-яЁё]{1,}"
+           oninvalid="this.setCustomValidity('enter real surname')" oninput="this.setCustomValidity('')">
+
+          <input type="text" placeholder="name" id="name" name="name" required required pattern="[A-Za-zА-Яа-яЁё]{1,}"
+                 oninvalid="this.setCustomValidity('enter real name')" oninput="this.setCustomValidity('')">
+
+          <input type="text" placeholder="patronymic" id="patronymic" name="patronymic" required required pattern="[A-Za-zА-Яа-яЁё]{1,}"
+                 oninvalid="this.setCustomValidity('enter real patronymic')" oninput="this.setCustomValidity('')">
+
+          <input type="text" placeholder="birthday" id="birthday" name="birthday" required required pattern="\d\d.\d\d.\d\d\d\d"
+          oninvalid="this.setCustomValidity('enter date as dd.mm.yyyy')" oninput="this.setCustomValidity('')">
+
+          <input type="text" placeholder="group number" id="group_number" name="group_number" required required pattern="\d\d-\d\d\d"
+          oninvalid="this.setCustomValidity('enter group number as nn-nnn (ex. 11-111)')" oninput="this.setCustomValidity('')">
+
+          <input type="email" placeholder="email" id="email" name="email" required>
+
+          <textarea name="info" id="info" placeholder="Info"
+          maxlength="50"></textarea>
+
+          <button type="button" class="btn" id="submit">Add</button>
+          <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+
+        </form>
+      </div>
+        <input type="text" id="search_surname" class="search" placeholder="Search for surnames..">
+        <input type="text" id="search_name" class="search" placeholder="Search for names..">
+        <input type="text" id="search_patronymic" class="search" placeholder="Search for patronymics..">
+
+
+      <div class="table_group">
+<table id="students"><tr><th>ID number</th><th>Surname</th><th>Name</th><th>Patronymic</th><th>Birthday</th><th>Group number</th><th>email</th><th>Info</th></tr>
+<tr><td>111111</td><td>Богомолов</td><td>Даниил</td><td>Константинович</td><td>01.01.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala csgckgsdccgsdcgksdgcsdgchdcgdshcghdsgchdgchdchdshcsdhcgdshcghdschdchsdcg</td></tr>
+<tr><td>111112</td><td>Гадельшин </td><td>Роберт</td><td>Рустэмович</td><td>02.01.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111113</td><td>Гарькина</td><td>Елизавета</td><td>Витальевна</td><td>03.01.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111114</td><td>Гилазутдинова</td><td>Аделя</td><td>Ильдаровна</td><td>04.01.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111115</td><td>Гузаеров</td><td>Дамир</td><td>Альфредович</td><td>05.01.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111116</td><td>Дусалимов</td><td>Тимур</td><td>Алексеевич</td><td>06.01.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111117</td><td>Елагин</td><td>Марат</td><td>Эдуардович</td><td>07.01.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111118</td><td>Журавлева</td><td>Анастасия</td><td>Сергеевна</td><td>08.01.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111119</td><td>Запускалова</td><td>Дарья</td><td>Сергеевна</td><td>09.01.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111120</td><td>Колесников</td><td>Игорь</td><td>Юрьевич</td><td>10.01.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111121</td><td>Липатов</td><td>Александр</td><td>Сергеевич</td><td>05.01.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111122</td><td>Маннанов</td><td>Ризван</td><td>Рафкатович</td><td>05.01.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111123</td><td>Нуруллин</td><td>Ильдар</td><td>Наилевич</td><td>05.01.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111124</td><td>Рахманкулова</td><td>Валерия</td><td>Рашидовна</td><td>05.01.2002</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111125</td><td>Садоров</td><td>Тимур</td><td>Маратович</td><td>05.01.2000</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111126</td><td>Самсонов</td><td>Кирилл</td><td>Юрьевич</td><td>05.01.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111127</td><td>Соловьев</td><td>Сергей</td><td>Вадимович</td><td>30.09.2001</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111128</td><td>Трофимчук</td><td>Всеволод</td><td>Тарасович</td><td>30.09.2002</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111129</td><td>Хабибуллина</td><td>Ландыш</td><td>Ленаровна</td><td>30.09.2003</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111130</td><td>Хайбуллин</td><td>Тагир</td><td>Бурганович</td><td>30.09.2004</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111131</td><td>Хамзин</td><td>Артем</td><td>Ринатович</td><td>30.09.2005</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111132</td><td>Хамурзин</td><td>Искандер</td><td>Ильгамович</td><td>30.09.2006</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+<tr><td>111133</td><td>Хисматуллина</td><td>Азалия</td><td>Ураловна</td><td>30.09.2007</td><td>11-009</td><td>lala@la.ru</td><td>lala</td></tr>
+</table></div></div></div>
